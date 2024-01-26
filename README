@@ -1,4 +1,7 @@
-st - simple terminal
+LST - Livs build of the simple terminal, right now its really bare but i will patch more as i learn it all :3
+
+it now uses the everforest colorscheme. GWEEEEEEEEN
+
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
